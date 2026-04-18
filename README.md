@@ -8,9 +8,6 @@ An AI-powered study assistant that helps students understand concepts quickly an
 ## 🚀 Live Demo
 👉 https://huggingface.co/spaces/kavyasree153/StudyAssistant
 
-## 📸 Preview
-![App Screenshot](screenshotsapp-preview.png)
-
 ## ✨ Features
 - Ask questions and get instant answers  
 - Simplifies complex topics  
